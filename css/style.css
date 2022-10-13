@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+
+/* Sintaxe*/
+@media screen and (max-width: 500px)  {
+  /* Max width = tela menores que alguma resolução */
+  h1 {
+    color: blue;
+  }
+}
+
+/* 3 - outros modos */
+/* screen, print, speech, all */
+
+@media print and (max-width: 600px) {
+  h1 {
+    color: green;
+  }
+}
+
+/*  */
