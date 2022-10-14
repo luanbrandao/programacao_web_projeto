@@ -107,7 +107,7 @@
 /* Event form */
 #event-subscription {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("../img/hrz-5.jpg");
+    url("../img/header.jpg");
   background-position: center;
   background-size: cover;
   height: 85vh;
@@ -228,22 +228,22 @@
 }
 
 #benefit-1 {
-  background-image: url("../img/sqr-1.jpg");
+  background-image: url("../img/roupas.jpg");
 }
 
 #benefit-2 {
-  background-image: url("../img/sqr-2.jpg");
+  background-image: url("../img/molde.jpg");
 }
 
 #benefit-3 {
-  background-image: url("../img/sqr-3.jpg");
+  background-image: url("../img/bordado.jpg");
 }
 
 /* Event location */
 #location {
   height: 400px;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("../img/hrz-1.jpg");
+  url("../img/local.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -339,7 +339,7 @@
 #cta {
   height: 300px;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("../img/hrz-6.jpg");
+    url("../img/local.jpg");
   background-position: center;
   background-size: cover;
   display: flex;
