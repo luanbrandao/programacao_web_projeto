@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "@types/axios": "^0.14.0",
     "axios": "^1.2.3",
-    "graphql": "^16.6.0"
-  }
+    "graphql": "^16.6.0",
+    "requirejs": "^2.3.6"
+  },
+  "type": "module"
 }
